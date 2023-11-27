@@ -3,6 +3,8 @@ import pixivShorten from '../urlShorten/pixiv.mjs';
 const bannedHosts = [
   'danbooru.donmai.us',
   'konachan.com',
+  'mangadex.org',
+  'anidb.net',
   // 'www.fanbox.cc',
   // 'pixiv.net',
 ];
